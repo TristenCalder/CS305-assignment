@@ -12,3 +12,7 @@ When the alarm goes off, the user must travel the amount of distance they select
 There would also be user levels and scoring connected to a database so that this can be set apart from the rest of the alarms . 
 At certain levels, more features of the alarm would be available to the user, such as new alarm sounds and dark mode. 
 Once they reach max level, the goal is for the user to be well off without the alarm due to the alarm's main objective of creating better waking habits in the morning.
+
+
+
+This is a cool project - Tristen Calder
